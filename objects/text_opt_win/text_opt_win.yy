@@ -1,0 +1,38 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "text_opt_win",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Объекты",
+    "path": "folders/Объекты.yy",
+  },
+  "parentObjectId": {
+    "name": "text_opt",
+    "path": "objects/text_opt/text_opt.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"tex","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"Полноэкранный режим","varType":2,},
+  ],
+  "solid": false,
+  "spriteId": null,
+  "spriteMaskId": null,
+  "visible": true,
+}
